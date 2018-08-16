@@ -66,3 +66,23 @@ code {
   height: 16px;
   margin-right: 10px;
 }
+
+
+
+
+
+.story-img {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  /* background-size: contain; */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.next-button {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
